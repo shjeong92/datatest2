@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id ="@+id/seoul"
+        android:title = "서울"/>
+
+    <item
+        android:id ="@+id/gyeongnam"
+        android:title = "경남"/>
+    <item
+        android:id ="@+id/gyeongbuk"
+        android:title = "경북"/>
+    <item
+        android:id ="@+id/jeonnam"
+        android:title = "전남"/>
+    <item
+        android:id ="@+id/jeonbuk"
+        android:title = "전북"/>
+    <item
+        android:id ="@+id/chungnam"
+        android:title = "충남"/>
+    <item
+        android:id ="@+id/chungbuk"
+        android:title = "충북"/>
+    <item
+        android:id ="@+id/gangwon"
+        android:title = "강원"/>
+    <item
+        android:id ="@+id/gyeongki"
+        android:title = "경기"/>
+    <item
+        android:id ="@+id/sejong"
+        android:title = "세종"/>
+    <item
+        android:id ="@+id/ulsan"
+        android:title = "울산"/>
+    <item
+        android:id ="@+id/daejun"
+        android:title = "대전"/>
+    <item
+        android:id ="@+id/gwangju"
+        android:title = "광주"/>
+    <item
+        android:id ="@+id/incheon"
+        android:title = "인천"/>
+    <item
+        android:id ="@+id/daegu"
+        android:title = "대구"/>
+    <item
+        android:id ="@+id/busan"
+        android:title = "부산"/>
+    <item
+        android:id ="@+id/jeju"
+        android:title = "제주"/>
+
+</menu>
+
+

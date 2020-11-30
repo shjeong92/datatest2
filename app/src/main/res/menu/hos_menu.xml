@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id ="@+id/hos_ansim"
+        android:title = "국민안심병원"/>
+
+    <item
+        android:id ="@+id/hos_corona1"
+        android:title = "코로나검사 실시기관"/>
+    <item
+        android:id ="@+id/hos_corono2"
+        android:title = "코로나 선별진료소 운영기관"/>
+
+
+</menu>
+
+
